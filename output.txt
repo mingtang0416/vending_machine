@@ -1,0 +1,108 @@
+{"beverage_type":"espresso"}
+{"beverage_type":"soda"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"soda"}
+{"beverage_type":"latte"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"latte"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"espresso"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"espresso"}
+{"beverage_type":"soda"}
+{"beverage_type":"latte"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"latte"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"latte"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"espresso"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"latte"}
+{"beverage_type":"soda"}
+{"beverage_type":"latte"}
+{"beverage_type":"soda"}
+{"beverage_type":"espresso"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"espresso"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"latte"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"latte"}
+{"beverage_type":"soda"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"espresso"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"latte"}
+{"beverage_type":"soda"}
+{"beverage_type":"espresso"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"espresso"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"latte"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"soda"}
+{"beverage_type":"espresso"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"latte"}
+{"beverage_type":"soda"}
+{"beverage_type":"espresso"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"latte"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"latte"}
+{"beverage_type":"soda"}
+{"beverage_type":"latte"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"latte"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"espresso"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"latte"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"latte"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"latte"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"espresso"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"soda"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"lemonade"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"soda"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"ice tea"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"soda"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"soda"}
+{"beverage_type":"latte"}
+{"beverage_type":"soda"}
+{"beverage_type":"cappuccino"}
+{"beverage_type":"ice tea"}
+
+
+
+
+
+
+
+
